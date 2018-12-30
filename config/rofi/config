@@ -1,0 +1,6 @@
+rofi.show: run
+rofi.modi: window,ssh,run
+rofi.theme: .config/rofi/theme.rasi
+rofi.blur-background : true
+rofi.terminal:urxvt
+rofi.font: System San Francisco Display Regular 16
